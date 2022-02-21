@@ -33,7 +33,7 @@ export default function FileUploader() {
         <Label>Upload Your File </Label>
         <Input 
           onChange={handleChange} 
-          type="file" 
+          type="file"
         />
         <Button>Submit</Button>
     </Form>
